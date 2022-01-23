@@ -1,0 +1,13 @@
+/* 
+font-family: 'Inter', sans-serif;
+font-family: 'Manrope', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif; 
+*/
+* {
+  font-family: "Roboto", sans-serif;
+}
+.banner-btn {
+  color: #3f87f5;
+  background-color: #fff;
+}
