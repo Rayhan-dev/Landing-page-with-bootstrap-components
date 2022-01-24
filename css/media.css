@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+  footer a .f_img {
+    width: 40%;
+  }
+  .footer_left {
+    text-align: center;
+  }
+  .footer_right {
+    text-align: center;
+  }
+  .precion_moments button {
+    text-align: center;
+  }
+}
